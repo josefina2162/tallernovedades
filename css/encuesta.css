@@ -1,0 +1,77 @@
+
+.encuesta {
+
+    font-family: 'Asap', sans-serif;
+    line-height: 20pt;
+    margin-top: 100px;
+    color: white;
+
+}
+
+.linea3{
+  color: #F4D03F;
+  width: 380px;
+  margin-left: 27px;
+  margin-top: 8px;
+}
+
+#boton1{
+
+font-weight: 500;
+padding-top: 50px;
+border-radius: 3px;
+border-color: #F4D03F;
+background-color:  #000204;
+color: #F4D03F;
+margin-left: 60px;
+margin-top: 30px;
+padding: 18px;
+width: 1200px;
+  font-family: 'Asap', sans-serif;
+  font-size: 20px;
+}
+
+#boton2{
+font-weight: 500;
+padding-top: 50px;
+border-radius: 3px;
+border-color: #F4D03F;
+background-color:  #000204;
+color: #F4D03F;
+margin-left: 60px;
+margin-top: 20px;
+padding: 18px;
+width: 1200px;
+  font-family: 'Asap', sans-serif;
+  font-size: 20px;
+}
+
+#boton3{
+font-weight: 500;
+padding-top: 50px;
+border-radius: 3px;
+border-color: #F4D03F;
+background-color:  #000204;
+color: #F4D03F;
+margin-left: 60px;
+margin-top: 20px;
+padding: 18px;
+width: 1200px;
+  font-family: 'Asap', sans-serif;
+  font-size: 20px;
+}
+
+#boton4{
+font-weight: 500;
+padding-top: 50px;
+border-radius: 3px;
+border-color: #F4D03F;
+background-color:  #000204;
+color: #F4D03F;
+margin-left: 60px;
+margin-top: 20px;
+padding: 18px;
+width: 1200px;
+  font-family: 'Asap', sans-serif;
+  font-size: 20px;
+}

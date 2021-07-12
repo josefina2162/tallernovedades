@@ -1,0 +1,68 @@
+.linea6{
+  color: #F4D03F;
+  width: 210px;
+  margin-left: 27px;
+  margin-top: 8px;
+}
+.jupiter{
+margin-top: 27px;
+margin-left: 27px;
+}
+.texto-jupiter{
+  float: right;
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 19px;
+  line-height: 20pt;
+  margin-right: 815px;
+  margin-top: 16px;
+}
+
+.cine{
+float: right;
+margin-top: -325px;
+margin-right: 27px;
+}
+.texto-cine{
+  float: right;
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 19px;
+  line-height: 20pt;
+margin-top: -25px;
+margin-right: 93px;
+}
+
+.zack{
+  float: left;
+  margin-left: 30px;
+  margin-top: 41px;
+}
+.texto-zack{
+  float: right;
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 19px;
+  line-height: 20pt;
+  margin-right: 955px;
+  margin-top: 16px;
+}
+
+.astro{
+  float: right;
+  margin-right: 27px;
+  margin-top: -322px;
+}
+.texto-astro{
+  float: right;
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 19px;
+  line-height: 20pt;
+  margin-top: -24px;
+  margin-right: 140px;
+}

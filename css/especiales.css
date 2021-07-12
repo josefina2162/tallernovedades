@@ -1,0 +1,66 @@
+.contenedor-especiales{
+  position: relative;
+
+}
+
+.darin{
+  margin-top: 27px;
+  margin-left: 27px;
+}
+.destacado-darin{
+position: absolute;
+left: 45px;
+top: 480px;
+}
+.texto-darin{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 19px;
+  line-height: 20pt;
+  margin-left: 27px;
+  margin-top: 16px;
+}
+
+.carancho{
+  float: right;
+  margin-top: -515px;
+  margin-right: 485px;
+}
+.destacado-carancho{
+  position: absolute;
+  left: 510px;
+  top: 480px;
+}
+.texto-carancho{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 19px;
+  line-height: 20pt;
+  margin-left: 485px;
+  margin-top: -52px;
+}
+
+.agnes{
+  float: right;
+margin-top: -515px;
+margin-right: 27px;
+}
+.destacado-agnes{
+  position: absolute;
+  float: right;
+  left: 970px;
+  top: 480px;
+}
+.texto-agnes{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 19px;
+  line-height: 20pt;
+  float: right;
+  position: relative;
+  top: -52px;
+  right: 85px;
+}

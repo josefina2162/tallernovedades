@@ -1,0 +1,67 @@
+.linea4{
+  color: #F4D03F;
+  width: 90px;
+  margin-left: 27px;
+  margin-top: 8px;
+}
+.witches{
+margin-left: 27px;
+margin-top: 27px;
+}
+.text-witches{
+  font-family: 'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 19px;
+  line-height: 20pt;
+  margin-left: 27px;
+  margin-top: 16px;
+}
+
+.sleepers{
+  float: right;
+  margin-top: -498px;
+  margin-right: 697px;
+}
+.text-sleepers{
+  font-family:  'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 19px;
+  line-height: 20pt;
+float: right;
+margin-right: 718px;
+margin-top: -52px;
+}
+
+.firefly{
+float: right;
+margin-top: -498px;
+margin-right: 368px;
+}
+.text-firefly{
+  font-family:  'Asap', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  font-size: 19px;
+  line-height: 20pt;
+float: right;
+margin-top: -52px;
+margin-right:455px;
+}
+
+.silver{
+float: right;
+margin-top: -498px;
+margin-right: 32px;
+}
+.text-silver{
+float: right;
+font-family:  'Asap', sans-serif;
+font-weight: 400;
+color: #fff;
+font-size: 19px;
+line-height: 20pt;
+margin-top: -52px;
+margin-right:96px;
+}
